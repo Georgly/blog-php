@@ -1,2 +1,2 @@
-# blog-php
-MVC PHP Blog for practice
+# php-blog
+Simple PHP OOP blog based on mvc
